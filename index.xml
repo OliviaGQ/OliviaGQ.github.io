@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home</title>
-    <link>https://OliviaGQ.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 May 2025 16:44:09 -0400</lastBuildDate>
-    <atom:link href="https://OliviaGQ.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://OliviaGQ.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 03 May 2025 16:44:09 -0400</pubDate>
-      <guid>https://OliviaGQ.github.io/about/</guid>
-      <description>&lt;img src=&#34;https://OliviaGQ.github.io/images/me.jpg&#34; alt=&#34;Olivia Guo&#34; style=&#34;width: 160px; aspect-ratio: 1/1; object-fit: cover; border-radius: 50%; display: block; margin: 1.5rem auto;&#34; /&gt;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/images/me.jpg&#34; alt=&#34;Olivia Guo&#34; style=&#34;width: 160px; aspect-ratio: 1/1; object-fit: cover; border-radius: 50%; display: block; margin: 1.5rem auto;&#34; /&gt;
 &lt;p&gt;My experience spans across quantitative strategy development and investment banking, including internships at SDIC Securities, where I built and tested systematic futures trading strategies and supported IPO due diligence. At Shepherd Ventures, I’ve contributed to building robust “Black Swan–resilient” portfolios using clustering and optimization models. I&amp;rsquo;ve actively engaged with the Capital Management Club, where I analyzed equity strategies and participated in stock pitch competitions. Beyond my technical work, I served as President of the Chinese Students and Scholars Association, where I led major cultural and sponsorship initiatives.&lt;/p&gt;</description>
     </item>
   </channel>
