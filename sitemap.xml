@@ -2,26 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://OliviaGQ.github.io/about/</loc>
     <lastmod>2025-05-03T16:44:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://OliviaGQ.github.io/</loc>
     <lastmod>2025-05-03T20:55:55-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photo/</loc>
+    <loc>https://OliviaGQ.github.io/photo/</loc>
     <lastmod>2025-05-03T20:55:55-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/other/</loc>
-    <lastmod>2025-05-03T20:46:53-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/misc/</loc>
-    <lastmod>2025-05-03T18:24:05-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://OliviaGQ.github.io/projects/</loc>
     <lastmod>2025-05-03T16:44:21-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://OliviaGQ.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://OliviaGQ.github.io/tags/</loc>
   </url>
 </urlset>
